@@ -17,3 +17,9 @@ Comunicación (75% del funcionamiento)
 - Definir mensaje de presencia
 - Enviar/recibir notificaciones
 - Enviar/recibir archivos
+
+
+Instalación:
+- Instalar Django desde la consola con: pip install Django.
+- Crear los diferentes archivos de .vscode, env. 
+- Abrir la consola y buscar la carpeta del proyecto, luego escribir:  django-admin startproject justchat (Guardarlo como src y dentro estara justchat y manage.py
