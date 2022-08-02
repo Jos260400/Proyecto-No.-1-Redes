@@ -18,3 +18,6 @@ Comunicación (75% del funcionamiento)
 - Enviar/recibir notificaciones
 - Enviar/recibir archivos
 
+Instalacion:
+- Descargar e instalar Xampp.
+- Guardar todos los archivos en htdocs como php-chat-app
