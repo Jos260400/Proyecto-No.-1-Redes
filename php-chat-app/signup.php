@@ -22,6 +22,14 @@
             </h3>
             </div>
 
+
+
+            <div class="alert alert-warning" role="alert">
+  A simple warning alert—check it out!
+</div>
+
+
+
         <div class="mb-3">
         <label class="form-label">
             Name</label>
