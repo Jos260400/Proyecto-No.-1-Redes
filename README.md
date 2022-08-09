@@ -21,3 +21,6 @@ Comunicación (75% del funcionamiento)
 Instalacion:
 - Descargar e instalar Xampp.
 - Guardar todos los archivos en htdocs como php-chat-app
+- Dentro de la carpeta habran archivos del login/signup y el chat.
+- La carpeta de los estilos tambien debe ir dentro de php-chat-app.
+
