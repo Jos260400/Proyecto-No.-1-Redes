@@ -24,3 +24,5 @@ Instalacion:
 - Dentro de la carpeta habran archivos del login/signup y el chat.
 - La carpeta de los estilos tambien debe ir dentro de php-chat-app.
 
+Dirección:
+http://localhost/php-chat-app/login.php
