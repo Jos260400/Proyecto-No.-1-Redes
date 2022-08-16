@@ -1,2 +1,16 @@
-chat\chat_server.class
+chat\signup.class
+chat\next$1.class
+chat\signup$1.class
+chat\chat_client$1.class
 chat\chat_server$1.class
+chat\signup$2.class
+chat\login$3.class
+chat\login$2.class
+chat\chat_client$2.class
+chat\chat_client.class
+chat\login$1.class
+chat\login.class
+chat\next.class
+chat\chat_server.class
+.netbeans_automatic_build
+chat\chat_server$2.class
