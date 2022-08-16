@@ -19,3 +19,6 @@ Comunicación (75% del funcionamiento)
 - Enviar/recibir archivos
 
 Instalacion:
+- JDK y Netbeans.
+- Guardar el proyecto en un lugar correspondiente.
+- Abrir el folder con el proyecto en Netbeans.
