@@ -101,7 +101,7 @@ public class login extends javax.swing.JFrame {
     String Username=user.getText();
     String Password=user.getText();
 
-    if(Username.contains("cs") && Password.contains("cs") ){
+    if(Username.contains("Fernando") && Password.contains("Fernando") ){
 	user.setText("");
 	pass.setText("");
         

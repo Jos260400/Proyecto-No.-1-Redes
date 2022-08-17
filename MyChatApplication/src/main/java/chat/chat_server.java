@@ -1,4 +1,4 @@
-/*
+                                         /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -153,7 +153,7 @@ public class chat_server extends javax.swing.JFrame {
 
             while (!msgin.equals("exit")) {
                 msgin = dis.readUTF();
-                msg_area.setText(msg_area.getText() + "\n Client : " + msgin);
+                msg_area.setText(msg_area.getText() + "\n Cleint : " + msgin);
             }
 
         } catch (Exception e) {
