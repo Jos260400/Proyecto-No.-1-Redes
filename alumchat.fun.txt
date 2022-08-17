@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 alumchat.fun
+=======
+alumchat.fun
+>>>>>>> b2e926f434376ac6f696e11bc906a79d9af5b0ec
 openfire.alumchat.fun
