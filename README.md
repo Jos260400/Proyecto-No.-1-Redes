@@ -26,3 +26,5 @@ Instalacion:
 Tomar en cuenta:
 - Ejecutar el login y luego el chat.
 - No se necesita ningun tipo del librerias.
+
+Primer Prototipo: El primer prototipo se realizo en HTML, PHP, AJAX, MYSQL. La parte de Login/Signup y guardaba los datos en MYSQL, pero se tenia que implementar XMPP. El que se utilizo en la segunda version fue OpenFire donde se creo un server como admin. 
