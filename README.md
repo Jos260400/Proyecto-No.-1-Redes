@@ -22,3 +22,7 @@ Instalacion:
 - JDK y Netbeans.
 - Guardar el proyecto en un lugar correspondiente.
 - Abrir el folder con el proyecto en Netbeans.
+
+Tomar en cuenta:
+- Ejecutar el login y luego el chat.
+- No se necesita ningun tipo del librerias.
